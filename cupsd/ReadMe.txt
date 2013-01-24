@@ -1,0 +1,1 @@
+This cupsd.conf file has been modified as per recommended by posts at MacAdminCorner (Patrick Gallagher) and MacTech Magazine (Greg Neagle) so that non-administrators may resume paused print queues following events such as print james or empty paper trays.
